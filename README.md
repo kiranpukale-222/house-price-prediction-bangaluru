@@ -117,7 +117,7 @@ These are used directly in the **Streamlit application**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<kiranpukale-222>/<repo-name>.git
+git clone https://github.com/<kiranpukale-222>/<house-price-prediction-bangaluru>.git
 cd <house-price-prediction-bengaluru>
 ```
 
